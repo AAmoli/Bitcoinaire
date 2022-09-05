@@ -21,6 +21,8 @@ If you know people who might be interested you are welcome to invite them.
 The more people participate the bigger our solar farm and mining farm gets and the more you earn.
 
 Don’t miss this out! 
+
 Bitcoinaire is just ♥♥♥!!
+
 Buy and lean back!
  
