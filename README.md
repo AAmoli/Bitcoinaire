@@ -1,7 +1,7 @@
 # Bitcoinaire
 
 Bitcoinaire is a life (wife) changing rewarding and mining protocol.
-It's a BTC reward and BTC mining Token with a running deflationary burning mechanism.
+\nIt's a BTC reward and BTC mining Token with a running deflationary burning mechanism.
 
 We are in the process of expanding our solar farm from day to day.
 The energy generated is used exclusively to mine Bitcoin.
